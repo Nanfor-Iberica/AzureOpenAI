@@ -25,6 +25,10 @@ Este repositorio recopila materiales de referencia, casos de uso y ejemplos prá
 
 ## Formación relacionada
 
+### Inteligencia Artificial en Nanfor
+https://nanfor.com/pages/cursos-inteligencia-artificial
+
+### Cursos especializados de IA
 https://nanfor.com/collections/inteligencia-artificial
 
 ## Sobre Nanfor
